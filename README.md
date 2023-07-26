@@ -6,7 +6,7 @@
 <ul>
   <li>
     <b>Create: </b>
-    Users can add new items to the collection by filling out a form with relevant details and clicking the "Add" button.
+    Users can add new items to the collection by filling out a form with relevant details and clicking the "Create" button.
   </li>
   <li>
     <b>Read: </b>
@@ -27,8 +27,8 @@
   <li>Clone or download this repository to your local machine.</li>
     <li>Open the index.html file in your web browser.</li>
     <li>The app will load, and you will see a list of existing items (if any).</li>
-    <li>To add a new item, click on the "Add Item" button, fill out the form, and click "Add."</li>
-    <li>To edit an existing item, click on the "Edit" button next to the item, make the necessary changes, and click "Save."</li>
+    <li>To add a new item, click on the "Add Item" button, fill out the form, and click "Create"</li>
+    <li>To edit an existing item, click on the "Edit" button next to the item, make the necessary changes, and click "Update"</li>
     <li>To delete an item, click on the "Delete" button next to the item you wish to remove.</li>
 </ol>
 
