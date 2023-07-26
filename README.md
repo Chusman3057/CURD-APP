@@ -1,6 +1,7 @@
 <h1>CURD App With JavaScript</h1>
 <hr>
 <h3>Preview</h3>
+(https://github.com/Chusman3057/CURD-APP/blob/main/curd-app.png)
 <h3>Features</h3>
 <ul>
   <li>
