@@ -1,0 +1,65 @@
+body {
+    background-color: #d7dfe4;
+}
+
+.heading {
+    margin-top: 20px;
+    font-weight: 700;
+    color: #d82d2d;
+    text-align: center;
+}
+
+.task-input {
+    max-width: 500px;
+    min-width: 250px;
+    padding: 5px 8px;
+    font-size: 20px;
+    font-weight: 600;
+    /* border-radius: 8px; */
+    border: 2px solid #d82d2d;
+    text-transform: capitalize;
+    outline: none;
+}
+
+.btnInput {
+    border: 2px solid #d82d2d;
+    margin: 10px 0;
+    padding: 5px 8px;
+    font-size: 20px;
+    font-weight: 600;
+    /* border-radius: 8px; */
+    color: rgb(116, 116, 116);
+    background-color: white;
+}
+
+.btnInput:hover {
+    color: #d82d2d;
+}
+
+input[type="submit"],
+button,
+#close {
+    cursor: pointer;
+}
+
+.up-date-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#close {
+    margin: 3px 10px 0px 10px;
+}
+
+.mytodo-list {
+    margin: 50px 0;
+}
+
+.counter {
+    margin: 10px 0;
+}
+
+#UpdateForm {
+    display: none;
+}
